@@ -1,4 +1,0 @@
-newdb
-testdb
-uatdb
-proddb
